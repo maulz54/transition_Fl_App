@@ -1,0 +1,6 @@
+package xyz.mlzdev.transition_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
